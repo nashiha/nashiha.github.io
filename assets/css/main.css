@@ -117,7 +117,7 @@ input, select, textarea {
 
 		a:hover {
 			border-bottom-color: transparent;
-			color: #6179C7	!important;
+			color: #8ba6ff	!important;
 			text-decoration: none;
 		}
 
@@ -2138,7 +2138,7 @@ input, select, textarea {
 			}
 
 		.image.avatar {
-			border-radius: 150%; /*50*/
+			border-radius: 100%; /*50*/
 		}
 
 			.image.avatar:before {
@@ -2209,7 +2209,7 @@ input, select, textarea {
 			}
 
 			ul.icons li .icon:before {
-				font-size: 1.5em;
+				font-size: 1.3em;
 			}
 
 /* Labeled Icons */
@@ -2468,8 +2468,8 @@ input, select, textarea {
 		input[type="reset"]:hover,
 		input[type="button"]:hover,
 		.button:hover {
-			border-color: #6179C7;
-			color: #6179C7 !important;
+			border-color: #8ba6ff;
+			color: #8ba6ff !important;
 		}
 
 		input[type="submit"]:active,
@@ -2643,7 +2643,7 @@ input, select, textarea {
 		}
 
 		#header .image.avatar {
-			margin: 0 0 0.1em 0;
+			margin: 0 0 1em 0;
 			width: 6.25em;
 		}
 
@@ -2659,7 +2659,7 @@ input, select, textarea {
 
 	#footer .copyright {
 		color: rgba(255, 255, 255, 0.5);
-		font-size: 1em;
+		font-size: 0.95em;
 		list-style: none;
 		margin: 1em 0 0 0;
 		padding: 0;
@@ -3006,7 +3006,7 @@ input, select, textarea {
 			}
 
 				#header h1 {
-					font-size: 1.25em;
+					font-size: 1.20em;
 				}
 
 					#header h1 br {
